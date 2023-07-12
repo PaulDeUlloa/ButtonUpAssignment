@@ -6,23 +6,27 @@
 .search{
     padding-left: 8%;
     padding-top: 1.5%;
-    border: rgb(10, 53, 241) 2px solid;
-    color: blue;
-    font-family: sans-serif;
-    border-radius: 35%;
+    padding-right: 10%;
+    border: #70c1b3 3px solid;
+    color: rgb(63, 161, 161);
+    font-size: 100%;
+    border-radius: 45%;
     margin: 10%;
-    width: 15%;
+    width: 4%;
     height:35px;
+    text-align: center;
 }
 
 .plus{
     background-color: aquamarine;
+    color: white;
     font-family: sans-serif;
-    font-size: 100%;
-    color: rgb(0, 0, 0);
-    border-radius: 50%;
+    font-size: 150%;
     margin: 10%;
-    height: 75px;
+    text-align: center;
+    padding-top: 1%;
+    border-radius: 50%;
+    height: 50px;
     width: 6%;
 }
 
@@ -30,10 +34,12 @@
     background-color: rgb(54, 136, 224);
     color: white;
     font-family: sans-serif;
-    font-size: small;
+    font-size: 80%;
     margin: 10%;
     width: 15%;
     border: black 3px solid;
-    box-shadow: 5px 5px 1px .5px rgba(0, 0, 255, .2);
-    padding-left: 5%;
+    box-shadow: 5px 5px 1px .5px rgb(0, 0, 0);
+    padding-left: 4%;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
