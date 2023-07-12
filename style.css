@@ -5,6 +5,7 @@
 
 .search{
     background-color:rgb(93, 176, 176);
+    border: black 1px solid;
     color: white ;
     font-family: sans-serif;
     border-radius: 20%;
