@@ -4,34 +4,36 @@
 }
 
 .search{
-    padding: 20px;
+    padding-left: 8%;
+    padding-top: 1.5%;
     border: rgb(10, 53, 241) 2px solid;
     color: blue;
     font-family: sans-serif;
-    border-radius: 50%;
+    border-radius: 35%;
     margin: 10%;
-    width: 70px;
-    height: 30px;
-    width: 100px;
+    width: 15%;
+    height:35px;
 }
 
 .plus{
     background-color: aquamarine;
     font-family: sans-serif;
-    font-size: 500%;
-    color: white;
+    font-size: 100%;
+    color: rgb(0, 0, 0);
     border-radius: 50%;
     margin: 10%;
-    height: 100px;
+    height: 75px;
     width: 6%;
-    padding: 10 10;
 }
 
 .account{
     background-color: rgb(54, 136, 224);
     color: white;
     font-family: sans-serif;
+    font-size: small;
     margin: 10%;
-    width: 10%;
+    width: 15%;
     border: black 3px solid;
+    box-shadow: 5px 5px 1px .5px rgba(0, 0, 255, .2);
+    padding-left: 5%;
 }
