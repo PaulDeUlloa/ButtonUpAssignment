@@ -4,22 +4,25 @@
 }
 
 .search{
-    background-color:rgb(93, 176, 176);
+    background: rgb(93, 176, 176);
+    padding: 10px;
     border: black 1px solid;
     color: white ;
     font-family: sans-serif;
-    border-radius: 20%;
+    border-radius: 50%;
     margin: 10%;
-    width: 10%;
+    width: 15%;
 }
 
 .plus{
     background-color: aquamarine;
     font-family: sans-serif;
     color: white;
-    border-radius: 30%;
+    border-radius: 50%;
     margin: 10%;
+    height: 70px;
     width: 3%;
+    padding-left: 3%;
 }
 
 .account{
