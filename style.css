@@ -3,3 +3,28 @@
     padding: 0;
 }
 
+.search{
+    background-color:rgb(93, 176, 176);
+    color: white ;
+    font-family: sans-serif;
+    border-radius: 20%;
+    margin: 10%;
+    width: 10%;
+}
+
+.plus{
+    background-color: aquamarine;
+    font-family: sans-serif;
+    color: white;
+    border-radius: 30%;
+    margin: 10%;
+    width: 3%;
+}
+
+.account{
+    background-color: rgb(54, 136, 224);
+    color: white;
+    font-family: sans-serif;
+    margin: 10%;
+    width: 10%;
+}
